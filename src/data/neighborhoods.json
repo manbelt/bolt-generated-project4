@@ -1,0 +1,29 @@
+{
+  "neighborhoods": [
+    {
+      "id": "arenal",
+      "name": "El Arenal",
+      "description": "Popular beach area with restaurants and shops"
+    },
+    {
+      "id": "port",
+      "name": "Puerto de Jávea",
+      "description": "Historic port district with seafood restaurants"
+    },
+    {
+      "id": "old-town",
+      "name": "Old Town",
+      "description": "Historic center with traditional architecture"
+    },
+    {
+      "id": "montgo",
+      "name": "Montgó",
+      "description": "Residential area near Montgó Natural Park"
+    },
+    {
+      "id": "balcon",
+      "name": "Balcón al Mar",
+      "description": "Clifftop residential area with sea views"
+    }
+  ]
+}

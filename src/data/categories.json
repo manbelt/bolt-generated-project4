@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "restaurants",
+      "title": "Restaurants",
+      "description": "Savor local and international cuisine",
+      "icon": "Utensils"
+    },
+    {
+      "id": "accommodation",
+      "title": "Accommodation",
+      "description": "Find your perfect stay",
+      "icon": "Bed"
+    },
+    {
+      "id": "beaches",
+      "title": "Beaches",
+      "description": "Explore stunning coastlines",
+      "icon": "Waves"
+    },
+    {
+      "id": "nature",
+      "title": "Nature",
+      "description": "Discover natural wonders",
+      "icon": "Palmtree"
+    },
+    {
+      "id": "sightseeing",
+      "title": "Sightseeing",
+      "description": "Visit historic landmarks",
+      "icon": "Camera"
+    },
+    {
+      "id": "nightlife",
+      "title": "Nightlife",
+      "description": "Experience vibrant evenings",
+      "icon": "GlassWater"
+    },
+    {
+      "id": "entertainment",
+      "title": "Entertainment",
+      "description": "Enjoy local performances",
+      "icon": "Music"
+    },
+    {
+      "id": "shopping",
+      "title": "Shopping",
+      "description": "Browse local markets and shops",
+      "icon": "ShoppingBag"
+    }
+  ]
+}
